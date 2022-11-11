@@ -5,4 +5,4 @@ This repository contains all of the notes taken by [Jerome](https://github.com/j
 
 ## Table of Contents
 * [Week 1](/Week_1)
-  * [Day 1](/Week_1/Day_1) test
+  * [Day 1](/Week_1/Day_1)
