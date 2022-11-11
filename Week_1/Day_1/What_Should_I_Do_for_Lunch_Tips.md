@@ -12,5 +12,3 @@ function whatToDoForLunch(humgry, availableTime) {
   console.log('availableTime is', availableTime);
 }
 ```
-
-test
